@@ -1,3 +1,11 @@
+# Dad Joke Web App page
+Web page which lists jokes,along with a "Vote-up" and a "Vote-down" and Net score for each Joke is Displayed
+According to number of vote up and Vote down Emoji's change reaction.<br>
+
+![](joke.gif)
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
